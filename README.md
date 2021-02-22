@@ -6,12 +6,15 @@ For my team, a different version of the game was uploaded to Global Game Jam.
 The link provided below:
 https://globalgamejam.org/2021/games/kay-9-project-6
 
+The repository for the game:
+https://github.com/seamus-hunter/ggj-2021
+
 For the version that I was testing:
 
-I learned about getting clear sprites with clean lines, and tilemapping.
+-I learned about getting clear sprites with clean lines, and tilemapping.
 Also, I learned about animating sprites, but not how to implement them in the game.
 
-I used a bunch of resources to understand how the animations work, Google searches and all of that.
+-I used a bunch of resources to understand how the animations work, Google searches and all of that.
 Many were for different versions and it was difficult to look for all the features without searching
 for each of them individually.
 
