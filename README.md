@@ -4,10 +4,10 @@ This is my version of a game for Global Game Jam that I was messing with (not th
 For my team, a different version of the game was uploaded to Global Game Jam. 
 
 The link provided below:
-https://globalgamejam.org/2021/games/kay-9-project-6
+>https://globalgamejam.org/2021/games/kay-9-project-6
 
 The repository for the game:
-https://github.com/seamus-hunter/ggj-2021
+>https://github.com/seamus-hunter/ggj-2021
 
 For the version that I was testing:
 
@@ -21,10 +21,10 @@ for each of them individually.
 Movement:
 
 The controller script for the character is from Brackeys, and the specific YouTube video I got it from is:
-https://www.youtube.com/watch?v=dwcT-Dch0bA
+>https://www.youtube.com/watch?v=dwcT-Dch0bA
 
 Link for the project relating to the 2D Movement by Brackeys is here:
-https://github.com/Brackeys/2D-Movement
+>https://github.com/Brackeys/2D-Movement
 
 
 What I would like to do/learn for future games:
