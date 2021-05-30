@@ -1,5 +1,5 @@
 # GGJ2021
-This is a game for Global Game Jam, my version that I was messing with (not uploaded one).
+This is my version of a game for Global Game Jam that I was messing with (not the uploaded one).
 
 For my team, a different version of the game was uploaded to Global Game Jam. 
 
